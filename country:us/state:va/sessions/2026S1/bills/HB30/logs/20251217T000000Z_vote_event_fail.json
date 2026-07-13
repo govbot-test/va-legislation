@@ -1,0 +1,40 @@
+{
+  "identifier": "H02",
+  "motion_text": "Referred to Committee on Appropriations",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-12-17",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026S1",
+  "bill": "83e85144-7653-11f1-ad9d-12859798b3ae",
+  "bill_action": null,
+  "bill_identifier": "HB30",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/cgi-bin/legp604.exe?20262+vot+H02+HB0030",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

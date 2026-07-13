@@ -1,0 +1,281 @@
+{
+  "identifier": "SV39",
+  "motion_text": "Conference report agreed to by Senate (23-Y 16-N 0-A)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026S1",
+  "bill": "83e85144-7653-11f1-ad9d-12859798b3ae",
+  "bill_action": null,
+  "bill_identifier": "HB30",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "L. Louise Lucas",
+      "voter_id": "~{\"name\": \"L. Louise Lucas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "R. Creigh Deeds",
+      "voter_id": "~{\"name\": \"R. Creigh Deeds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mamie E. Locke",
+      "voter_id": "~{\"name\": \"Mamie E. Locke\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mark D. Obenshain",
+      "voter_id": "~{\"name\": \"Mark D. Obenshain\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ryan T. McDougle",
+      "voter_id": "~{\"name\": \"Ryan T. McDougle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richard H. Stuart",
+      "voter_id": "~{\"name\": \"Richard H. Stuart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David W. Marsden",
+      "voter_id": "~{\"name\": \"David W. Marsden\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "William M. Stanley, Jr.",
+      "voter_id": "~{\"name\": \"William M. Stanley, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Barbara A. Favola",
+      "voter_id": "~{\"name\": \"Barbara A. Favola\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bryce E. Reeves",
+      "voter_id": "~{\"name\": \"Bryce E. Reeves\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bill DeSteph",
+      "voter_id": "~{\"name\": \"Bill DeSteph\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeremy S. McPike",
+      "voter_id": "~{\"name\": \"Jeremy S. McPike\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Glen H. Sturtevant, Jr.",
+      "voter_id": "~{\"name\": \"Glen H. Sturtevant, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott A. Surovell",
+      "voter_id": "~{\"name\": \"Scott A. Surovell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "David R. Suetterlein",
+      "voter_id": "~{\"name\": \"David R. Suetterlein\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Mark J. Peake",
+      "voter_id": "~{\"name\": \"Mark J. Peake\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jennifer B. Boysko",
+      "voter_id": "~{\"name\": \"Jennifer B. Boysko\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Todd E. Pillion",
+      "voter_id": "~{\"name\": \"Todd E. Pillion\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "T. Travis Hackworth",
+      "voter_id": "~{\"name\": \"T. Travis Hackworth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aaron R. Rouse",
+      "voter_id": "~{\"name\": \"Aaron R. Rouse\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamont Bagby",
+      "voter_id": "~{\"name\": \"Lamont Bagby\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lashrecse D. Aird",
+      "voter_id": "~{\"name\": \"Lashrecse D. Aird\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Emily M. Jordan",
+      "voter_id": "~{\"name\": \"Emily M. Jordan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jennifer D. Carroll Foy",
+      "voter_id": "~{\"name\": \"Jennifer D. Carroll Foy\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Christie New Craig",
+      "voter_id": "~{\"name\": \"Christie New Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "J.D. \"Danny\" Diggs",
+      "voter_id": "~{\"name\": \"J.D. \\\"Danny\\\" Diggs\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tara A. Durant",
+      "voter_id": "~{\"name\": \"Tara A. Durant\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Timmy French",
+      "voter_id": "~{\"name\": \"Timmy French\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Christopher T. Head",
+      "voter_id": "~{\"name\": \"Christopher T. Head\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stella G. Pekarsky",
+      "voter_id": "~{\"name\": \"Stella G. Pekarsky\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Russet Perry",
+      "voter_id": "~{\"name\": \"Russet Perry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Danica A. Roem",
+      "voter_id": "~{\"name\": \"Danica A. Roem\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Saddam Azlan Salim",
+      "voter_id": "~{\"name\": \"Saddam Azlan Salim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schuyler T. VanValkenburg",
+      "voter_id": "~{\"name\": \"Schuyler T. VanValkenburg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Angelia Williams Graves",
+      "voter_id": "~{\"name\": \"Angelia Williams Graves\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tammy Brankley Mulchi",
+      "voter_id": "~{\"name\": \"Tammy Brankley Mulchi\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Luther Cifers, III",
+      "voter_id": "~{\"name\": \"Luther Cifers, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kannan Srinivasan",
+      "voter_id": "~{\"name\": \"Kannan Srinivasan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael J. Jones",
+      "voter_id": "~{\"name\": \"Michael J. Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elizabeth B. Bennett-Parker",
+      "voter_id": "~{\"name\": \"Elizabeth B. Bennett-Parker\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 16
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/cgi-bin/legp604.exe?20262+vot+SV39+HB0030",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

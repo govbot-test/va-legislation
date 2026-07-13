@@ -1,0 +1,40 @@
+{
+  "identifier": "26110507",
+  "motion_text": "Motion for Special and Continuing Order for Thursday, February 26, 2026 (93-Y 0-N 0-A)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-25",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026S1",
+  "bill": "83e85144-7653-11f1-ad9d-12859798b3ae",
+  "bill_action": null,
+  "bill_identifier": "HB30",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/cgi-bin/legp604.exe?20262+vot+26110507+HB0030",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}
