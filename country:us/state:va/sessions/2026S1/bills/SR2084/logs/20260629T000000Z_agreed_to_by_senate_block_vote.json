@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Agreed to by Senate Block Vote",
+    "occurred_at": "2026-06-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/SR2084",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR2084"
+}

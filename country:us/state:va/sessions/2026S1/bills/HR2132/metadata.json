@@ -1,0 +1,307 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "HR2132",
+  "title": "Commending the Reverend Dr. Raymond A. Bell.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending the Reverend Dr. Raymond A. Bell."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-hr2132"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented and laid on Speaker's table 26200194D",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Engrossed by House",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by House by voice vote",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed House (HR2132ER)",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicole Cole",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nicole Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica L. Anderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica L. Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Q. Askew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Q. Askew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen R. \"Kacey\" Carnegie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen R. \\\"Kacey\\\" Carnegie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stacey Annie Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stacey Annie Carroll\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Jane Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Jane Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joshua G. Cole",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joshua G. Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly K. Convirs-Fowler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kelly K. Convirs-Fowler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael B. Feggans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael B. Feggans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Margaret A. Franklin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Margaret A. Franklin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackie H. Glass",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackie H. Glass\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rozia A. Henson, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rozia A. Henson, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil M. Hernandez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil M. Hernandez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen Keys-Gamarra",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen Keys-Gamarra\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Destiny LeVere Bolling",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Destiny LeVere Bolling\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adele Y. McClure",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adele Y. McClure\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garrett McGuire",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garrett McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Delores L. McQuinn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Delores L. McQuinn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Leslie Chambers Mehta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Leslie Chambers Mehta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Atoosa R. Reaser",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Atoosa R. Reaser\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David A. Reid",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David A. Reid\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelly A. Simonds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shelly A. Simonds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virgil Thornton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Virgil Thornton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luke E. Torian",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Luke E. Torian\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented and laid on Speaker's table 26200194D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2132/text/HR2132",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-17",
+      "classification": ""
+    },
+    {
+      "note": "HR2132ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2132/text/HR2132ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/HR2132",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

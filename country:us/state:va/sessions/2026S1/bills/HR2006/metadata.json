@@ -1,0 +1,347 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "HR2006",
+  "title": "Commending the Omicron Alpha Lambda Chapter of Alpha Phi Alpha Fraternity, Inc.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending the Omicron Alpha Lambda  Chapter of Alpha Phi Alpha Fraternity, Inc."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-hr2006"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled and laid on Speaker's table; Offered 04-23-2026 26200102D",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Engrossed by House",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by House by voice vote",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed House (HR2006ER)",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicole Cole",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nicole Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonita G. Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonita G. Anthony\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alex Q. Askew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alex Q. Askew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katrina Callsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Katrina Callsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stacey Annie Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stacey Annie Carroll\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Jane Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Jane Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joshua G. Cole",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joshua G. Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rae Cousins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rae Cousins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael B. Feggans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael B. Feggans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Margaret A. Franklin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Margaret A. Franklin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C.E. Cliff Hayes, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"C.E. Cliff Hayes, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan I. Helmer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan I. Helmer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rozia A. Henson, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rozia A. Henson, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil M. Hernandez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil M. Hernandez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul E. Krizek",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul E. Krizek\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle Lopes Maldonado",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle Lopes Maldonado\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marty Martinez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marty Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adele Y. McClure",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adele Y. McClure\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garrett McGuire",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garrett McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kirk McPike",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kirk McPike\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marcia S. \"Cia\" Price",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marcia S. \\\"Cia\\\" Price\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Atoosa R. Reaser",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Atoosa R. Reaser\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David A. Reid",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David A. Reid\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Don Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Don Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Briana D. Sewell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Briana D. Sewell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Irene Shin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Irene Shin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelly A. Simonds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shelly A. Simonds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard C. \"Rip\" Sullivan, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard C. \\\"Rip\\\" Sullivan, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kathy K.L. Tran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kathy K.L. Tran\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Prefiled and laid on Speaker's table; Offered 04-23-2026 26200102D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2006/text/HR2006",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-22",
+      "classification": ""
+    },
+    {
+      "note": "HR2006ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2006/text/HR2006ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/HR2006",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

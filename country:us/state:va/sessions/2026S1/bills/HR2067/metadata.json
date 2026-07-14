@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "HR2067",
+  "title": "Commending the King's Fork High School girls' wrestling team.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending the King's Fork High School  girls' wrestling team."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-hr2067"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented and laid on Speaker's table 26200055D",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Engrossed by House",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by House by voice vote",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed House (HR2067ER)",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nadarius E. Clark",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nadarius E. Clark\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented and laid on Speaker's table 26200055D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2067/text/HR2067",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
+    },
+    {
+      "note": "HR2067ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2067/text/HR2067ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/HR2067",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "HR2033",
+  "title": "Commending Ringgold Baptist Church.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending Ringgold Baptist Church."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-hr2033"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled and laid on Speaker's table; Offered 04-23-2026 26200066D",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Engrossed by House",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by House by voice vote",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed House (HR2033ER)",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Madison Whittle",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Madison Whittle\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Prefiled and laid on Speaker's table; Offered 04-23-2026 26200066D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2033/text/HR2033",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-22",
+      "classification": ""
+    },
+    {
+      "note": "HR2033ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2033/text/HR2033ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/HR2033",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

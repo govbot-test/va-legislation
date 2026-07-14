@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Agreed to by House by voice vote",
+    "occurred_at": "2026-06-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HR2093",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR2093"
+}

@@ -1,0 +1,121 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "SR2027",
+  "title": "Commending Stephen Smith-Cobbs.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending Stephen Smith-Cobbs."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-sr2027"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented 26200132D",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Laid on Clerk's Desk",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by Senate by Block Vote (Voice Vote)",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed Senate (SR2027ER)",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jennifer B. Boysko",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jennifer B. Boysko\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented 26200132D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2027/text/SR2027",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-28",
+      "classification": ""
+    },
+    {
+      "note": "SR2027ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2027/text/SR2027ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/SR2027",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

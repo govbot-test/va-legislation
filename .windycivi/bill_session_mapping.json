@@ -1,5 +1,1495 @@
 {
+  "HR2035": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2036": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2169": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2037": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2013": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2060": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2028": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2088": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2058": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2155": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2034": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2032": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2172": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2077": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2089": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2139": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2063": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2095": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2067": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2174": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2183": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2135": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2047": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2122": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2008": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2007": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2044": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2121": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2070": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2007": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2152": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2106": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2203": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2188": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2010": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2185": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2018": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2101": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2043": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2164": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2137": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2199": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2014": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2037": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2108": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2167": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2162": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2097": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2083": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2053": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2116": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2098": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2010": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2099": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2142": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2179": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2063": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2127": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2118": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2111": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2144": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2081": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2201": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2074": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2002": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2019": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2043": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2143": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2033": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2049": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2034": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2136": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2031": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2014": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2194": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2013": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2069": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2072": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2066": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2082": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2124": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2070": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2083": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2071": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2071": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2168": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2115": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2006": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2132": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2157": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2026": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2058": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2100": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2119": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2198": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2049": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2084": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2147": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2175": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2206": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2036": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2093": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2052": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2066": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2154": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2024": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2038": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2012": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2150": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2027": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2055": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2062": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2009": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2076": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2145": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2017": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2181": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2090": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2087": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2041": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2018": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2130": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2193": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2033": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2068": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2029": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2015": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2131": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2128": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2044": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2059": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2005": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2112": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2054": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2126": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2025": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2078": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2092": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
   "HB30": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2151": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2064": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2191": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2061": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2064": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2202": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2011": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2017": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2077": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2153": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2045": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2019": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2042": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2030": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2026": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2074": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2055": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2048": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2173": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2090": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2030": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2005": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2189": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2148": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2113": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2187": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2048": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2047": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2041": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2022": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2190": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2023": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2009": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2184": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2161": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2129": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2171": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2003": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2056": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2107": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2192": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2082": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2054": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2003": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2195": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2088": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2140": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2073": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2186": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2165": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2176": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2177": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2052": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2004": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2078": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2158": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2081": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2114": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2024": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2080": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2166": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2079": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2021": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2160": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2163": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2094": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2109": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2091": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2057": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2104": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2046": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2016": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2045": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2120": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2028": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2067": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2001": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2103": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2046": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2073": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2002": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2086": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2065": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2057": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2204": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2015": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2039": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2085": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2159": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2089": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2060": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2004": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2016": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2182": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2051": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2170": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2178": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2038": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2032": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2117": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2075": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2053": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2040": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2207": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2197": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2025": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2091": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2061": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2035": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2050": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2133": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2123": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2056": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2125": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2072": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2087": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2079": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2086": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2062": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2059": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2029": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2008": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2138": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2149": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2085": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2196": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2200": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2180": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2051": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2027": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2031": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2102": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2096": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2050": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2040": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2205": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2141": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2069": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2020": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2021": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2075": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2146": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2084": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2065": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2068": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2134": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2020": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2039": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2076": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2156": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2042": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2110": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2006": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2001": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2080": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "SR2023": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2012": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HJ4001": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2022": {
+    "session_id": "2026S1",
+    "name": "2026, 1st Special Session",
+    "date_folder": "2026-2026"
+  },
+  "HR2105": {
     "session_id": "2026S1",
     "name": "2026, 1st Special Session",
     "date_folder": "2026-2026"

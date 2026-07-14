@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "SR2088",
+  "title": "Commending the Glenvar High School boys' soccer team.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending the Glenvar High School boys' soccer team."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-sr2088"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented 26200327D",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Laid on Clerk's Desk",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by Senate by voice vote (Voice Vote)",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed Senate (SR2088ER)",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Christopher T. Head",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Christopher T. Head\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David R. Suetterlein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David R. Suetterlein\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented 26200327D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2088/text/SR2088",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "SR2088ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2088/text/SR2088ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-07-01",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/SR2088",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

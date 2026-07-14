@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported from Finance and Appropriations with Senate Amendments Substituted for House Amendments (9-Y 3-N)",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HB30",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB30"
+}

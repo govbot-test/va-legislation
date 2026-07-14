@@ -1,0 +1,121 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "SR2035",
+  "title": "Commending The Dairy Godmother.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending The Dairy Godmother."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-sr2035"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented 26200164D",
+      "date": "2026-06-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Laid on Clerk's Desk",
+      "date": "2026-06-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by Senate by Block Vote (Voice Vote)",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed Senate (SR2035ER)",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Elizabeth B. Bennett-Parker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Elizabeth B. Bennett-Parker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented 26200164D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2035/text/SR2035",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-15",
+      "classification": ""
+    },
+    {
+      "note": "SR2035ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2035/text/SR2035ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/SR2035",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

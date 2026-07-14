@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Floor Amendment Item 4-14 #1h offered by Delegate McNamara passed by (62-Y 33-N 0-A)",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HB30",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB30"
+}

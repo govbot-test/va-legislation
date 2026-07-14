@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Bill text as passed Senate (SR2004ER)",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/SR2004",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR2004"
+}

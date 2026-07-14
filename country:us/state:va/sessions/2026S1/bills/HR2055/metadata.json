@@ -1,0 +1,235 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "HR2055",
+  "title": "Commending the Hunter Mill Democratic District Committee.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending the Hunter Mill Democratic District Committee."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-hr2055"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled and laid on Speaker's table; Offered 04-23-2026 26200067D",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Engrossed by House",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by House by voice vote",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed House (HR2055ER)",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Irene Shin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Irene Shin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gretchen M. Bulova",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gretchen M. Bulova\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Jane Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Jane Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karrie K. Delaney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karrie K. Delaney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan I. Helmer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan I. Helmer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rozia A. Henson, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rozia A. Henson, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charniele L. Herring",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charniele L. Herring\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen Keys-Gamarra",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen Keys-Gamarra\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul E. Krizek",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul E. Krizek\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garrett McGuire",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garrett McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holly M. Seibold",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Holly M. Seibold\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marcus B. Simon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marcus B. Simon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard C. \"Rip\" Sullivan, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard C. \\\"Rip\\\" Sullivan, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kathy K.L. Tran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kathy K.L. Tran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vivian E. Watts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vivian E. Watts\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Prefiled and laid on Speaker's table; Offered 04-23-2026 26200067D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2055/text/HR2055",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
+    },
+    {
+      "note": "HR2055ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2055/text/HR2055ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/HR2055",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

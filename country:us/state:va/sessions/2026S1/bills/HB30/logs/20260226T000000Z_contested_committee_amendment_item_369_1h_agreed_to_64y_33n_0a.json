@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Contested committee amendment Item 369 #1h agreed to (64-Y 33-N 0-A)",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HB30",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB30"
+}

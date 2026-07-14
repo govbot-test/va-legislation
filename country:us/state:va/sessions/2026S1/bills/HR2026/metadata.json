@@ -1,0 +1,123 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "HR2026",
+  "title": "Commending Abigail Marapau.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending Abigail Marapau."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-hr2026"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled and laid on Speaker's table; Offered 04-23-2026 26200034D",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:48Z"
+      }
+    },
+    {
+      "description": "Engrossed by House",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:48Z"
+      }
+    },
+    {
+      "description": "Agreed to by House by voice vote",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:48Z"
+      }
+    },
+    {
+      "description": "Bill text as passed House (HR2026ER)",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:48Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Michael B. Feggans",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael B. Feggans\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Prefiled and laid on Speaker's table; Offered 04-23-2026 26200034D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2026/text/HR2026",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-22",
+      "classification": ""
+    },
+    {
+      "note": "HR2026ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2026/text/HR2026ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/HR2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:48Z"
+  }
+}

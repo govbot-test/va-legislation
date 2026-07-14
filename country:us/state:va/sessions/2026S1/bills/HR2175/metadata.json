@@ -1,0 +1,161 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "HR2175",
+  "title": "Celebrating the life of Romayne Elizabeth Marschak.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Celebrating the life of Romayne Elizabeth Marschak."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-hr2175"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented and laid on Speaker's table 26200270D",
+      "date": "2026-06-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Engrossed by House",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by House",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed House (HR2175ER)",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Betsy B. Carr",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Betsy B. Carr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rae Cousins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rae Cousins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul E. Krizek",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul E. Krizek\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Delores L. McQuinn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Delores L. McQuinn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charlie Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charlie Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodney T. Willett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodney T. Willett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented and laid on Speaker's table 26200270D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2175/text/HR2175",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-21",
+      "classification": ""
+    },
+    {
+      "note": "HR2175ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2175/text/HR2175ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/HR2175",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "SR2005",
+  "title": "Commending the University of Mary Washington men's basketball team.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending the University of Mary Washington men's  basketball team."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-sr2005"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented 26200088D",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Laid on Clerk's Desk",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by Senate by Block Vote (voice vote)",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed Senate (SR2005ER)",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tara A. Durant",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tara A. Durant\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lashrecse D. Aird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lashrecse D. Aird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lamont Bagby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lamont Bagby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elizabeth B. Bennett-Parker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elizabeth B. Bennett-Parker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer B. Boysko",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer B. Boysko\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer D. Carroll Foy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer D. Carroll Foy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luther Cifers, III",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Luther Cifers, III\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christie New Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christie New Craig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Creigh Deeds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"R. Creigh Deeds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill DeSteph",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill DeSteph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.D. \"Danny\" Diggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J.D. \\\"Danny\\\" Diggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara A. Favola",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barbara A. Favola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timmy French",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timmy French\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael J. Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael J. Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily M. Jordan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily M. Jordan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mamie E. Locke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mamie E. Locke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Louise Lucas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L. Louise Lucas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David W. Marsden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David W. Marsden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan T. McDougle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ryan T. McDougle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy S. McPike",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy S. McPike\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Brankley Mulchi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Brankley Mulchi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark D. Obenshain",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark D. Obenshain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark J. Peake",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark J. Peake\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stella G. Pekarsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stella G. Pekarsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russet Perry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Russet Perry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryce E. Reeves",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bryce E. Reeves\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danica A. Roem",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danica A. Roem\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aaron R. Rouse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aaron R. Rouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Saddam Azlan Salim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Saddam Azlan Salim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kannan Srinivasan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kannan Srinivasan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William M. Stanley, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William M. Stanley, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard H. Stuart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard H. Stuart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Glen H. Sturtevant, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Glen H. Sturtevant, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David R. Suetterlein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David R. Suetterlein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott A. Surovell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott A. Surovell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schuyler T. VanValkenburg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schuyler T. VanValkenburg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelia Williams Graves",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelia Williams Graves\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented 26200088D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2005/text/SR2005",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
+    },
+    {
+      "note": "SR2005ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2005/text/SR2005ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-04-28",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/SR2005",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

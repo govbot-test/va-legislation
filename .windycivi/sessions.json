@@ -118,5 +118,9 @@
   "2026S1": {
     "name": "2026, 1st Special Session",
     "date_folder": "2026-2026"
+  },
+  "2027": {
+    "name": "2027 Regular Session",
+    "date_folder": "2027-2027"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Governor's Recommendation",
+    "occurred_at": "2026-06-26",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HB30",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB30"
+}

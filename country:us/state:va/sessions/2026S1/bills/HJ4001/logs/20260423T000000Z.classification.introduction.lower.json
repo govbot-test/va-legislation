@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Presented, ordered printed (HJ4001)",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HJ4001",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJ4001"
+}

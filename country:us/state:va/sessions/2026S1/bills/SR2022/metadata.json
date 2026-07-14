@@ -1,0 +1,201 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "SR2022",
+  "title": "Commending the University of Virginia women's swimming and diving team.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending the University of Virginia women's swimming and  diving team."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-sr2022"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented 26200026D",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Laid on Clerk's Desk",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by Senate by Block Vote (Voice Vote)",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed Senate (SR2022ER)",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. Creigh Deeds",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"R. Creigh Deeds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer B. Boysko",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer B. Boysko\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.D. \"Danny\" Diggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J.D. \\\"Danny\\\" Diggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara A. Favola",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barbara A. Favola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher T. Head",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher T. Head\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael J. Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael J. Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan T. McDougle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ryan T. McDougle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Saddam Azlan Salim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Saddam Azlan Salim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kannan Srinivasan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kannan Srinivasan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott A. Surovell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott A. Surovell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelia Williams Graves",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelia Williams Graves\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented 26200026D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2022/text/SR2022",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-05-06",
+      "classification": ""
+    },
+    {
+      "note": "SR2022ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2022/text/SR2022ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/SR2022",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

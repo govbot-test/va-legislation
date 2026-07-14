@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Presented and laid on Speaker's table 26200144D",
+    "occurred_at": "2026-06-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HR2095",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR2095"
+}

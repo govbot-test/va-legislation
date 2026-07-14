@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate amendments rejected by House (0-Y 92-N 0-A)",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HB30",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB30"
+}

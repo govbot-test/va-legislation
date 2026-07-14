@@ -1,0 +1,281 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "SR2044",
+  "title": "Celebrating the life of Bernard L. Henderson, Jr.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Celebrating the life of Bernard L. Henderson, Jr."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-sr2044"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented 26200236D",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Laid on Clerk's Desk",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by Senate by Block Vote",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed Senate (SR2044ER)",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schuyler T. VanValkenburg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Schuyler T. VanValkenburg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lamont Bagby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lamont Bagby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lashrecse D. Aird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lashrecse D. Aird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elizabeth B. Bennett-Parker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elizabeth B. Bennett-Parker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer B. Boysko",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer B. Boysko\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer D. Carroll Foy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer D. Carroll Foy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Creigh Deeds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"R. Creigh Deeds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara A. Favola",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barbara A. Favola\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael J. Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael J. Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mamie E. Locke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mamie E. Locke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Louise Lucas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L. Louise Lucas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David W. Marsden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David W. Marsden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy S. McPike",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy S. McPike\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stella G. Pekarsky",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stella G. Pekarsky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russet Perry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Russet Perry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danica A. Roem",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danica A. Roem\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aaron R. Rouse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aaron R. Rouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Saddam Azlan Salim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Saddam Azlan Salim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kannan Srinivasan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kannan Srinivasan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott A. Surovell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott A. Surovell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angelia Williams Graves",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angelia Williams Graves\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented 26200236D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2044/text/SR2044",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-18",
+      "classification": ""
+    },
+    {
+      "note": "SR2044ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/SR2044/text/SR2044ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/SR2044",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

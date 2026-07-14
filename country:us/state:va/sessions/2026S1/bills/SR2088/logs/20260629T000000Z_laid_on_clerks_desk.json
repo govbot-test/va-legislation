@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Laid on Clerk's Desk",
+    "occurred_at": "2026-06-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/SR2088",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR2088"
+}

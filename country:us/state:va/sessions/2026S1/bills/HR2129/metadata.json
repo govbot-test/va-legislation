@@ -1,0 +1,363 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "HR2129",
+  "title": "Commending the Central Virginia Transportation Authority.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "SUMMARY AS INTRODUCED",
+      "abstract": "Commending the Central Virginia Transportation Authority."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-va-2026s1-hr2129"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Presented and laid on Speaker's table 26200169D",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Engrossed by House",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Agreed to by House by voice vote",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    },
+    {
+      "description": "Bill text as passed House (HR2129ER)",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:57:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rae Cousins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rae Cousins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jessica L. Anderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jessica L. Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonita G. Anthony",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonita G. Anthony\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gretchen M. Bulova",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gretchen M. Bulova\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Katrina Callsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Katrina Callsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Betsy B. Carr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Betsy B. Carr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stacey Annie Carroll",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stacey Annie Carroll\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joshua G. Cole",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joshua G. Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Cole",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nicole Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lindsey Dougherty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lindsey Dougherty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Margaret A. Franklin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Margaret A. Franklin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debra D. Gardner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debra D. Gardner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackie H. Glass",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackie H. Glass\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick A. Hope",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick A. Hope\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy J. Laufer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Amy J. Laufer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Destiny LeVere Bolling",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Destiny LeVere Bolling\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marty Martinez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marty Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Chilton McAuliff",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Chilton McAuliff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kirk McPike",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kirk McPike\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Delores L. McQuinn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Delores L. McQuinn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Leslie Chambers Mehta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Leslie Chambers Mehta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimberly Pope Adams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kimberly Pope Adams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marcia S. \"Cia\" Price",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marcia S. \\\"Cia\\\" Price\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam Rasoul",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sam Rasoul\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David A. Reid",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David A. Reid\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charlie Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charlie Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Irene Shin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Irene Shin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeion A. Ward",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeion A. Ward\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Lee Ware",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"R. Lee Ware\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vivian E. Watts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vivian E. Watts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodney T. Willett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodney T. Willett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Presented and laid on Speaker's table 26200169D",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2129/text/HR2129",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-17",
+      "classification": ""
+    },
+    {
+      "note": "HR2129ER",
+      "links": [
+        {
+          "url": "https://lis.virginia.gov/bill-details/20262/HR2129/text/HR2129ER",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/bill-details/20262/HR2129",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:va/government",
+    "name": "Virginia",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:va"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:57:49Z"
+  }
+}

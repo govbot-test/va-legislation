@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Passed Senate with amendments (24-Y 16-N 0-A)",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HB30",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB30"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Prefiled and laid on Speaker's table; Offered 04-23-2026 26200048D",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://lis.virginia.gov/bill-details/20262/HR2056",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR2056"
+}

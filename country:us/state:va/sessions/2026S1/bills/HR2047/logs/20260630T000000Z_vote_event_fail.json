@@ -1,0 +1,40 @@
+{
+  "identifier": "26200092D",
+  "motion_text": "Bill text as passed House (HR2047ER)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-30",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026S1",
+  "bill": "2945c230-7f59-11f1-988c-b69d51f5d5b6",
+  "bill_action": null,
+  "bill_identifier": "HR2047",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/cgi-bin/legp604.exe?20262+vot+26200092D+HR2047",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,635 @@
+{
+  "identifier": "26211496",
+  "motion_text": "House concurred in Governor's recommendation No. 8 (90-Y 0-N 0-A)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-06-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026S1",
+  "bill": "28f9a77e-7f59-11f1-988c-b69d51f5d5b6",
+  "bill_action": null,
+  "bill_identifier": "HB30",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Terry G. Kilgore",
+      "voter_id": "~{\"name\": \"Terry G. Kilgore\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Vivian E. Watts",
+      "voter_id": "~{\"name\": \"Vivian E. Watts\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "R. Lee Ware",
+      "voter_id": "~{\"name\": \"R. Lee Ware\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas C. Wright, Jr.",
+      "voter_id": "~{\"name\": \"Thomas C. Wright, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Jeion A. Ward",
+      "voter_id": "~{\"name\": \"Jeion A. Ward\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Delores L. McQuinn",
+      "voter_id": "~{\"name\": \"Delores L. McQuinn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Charniele L. Herring",
+      "voter_id": "~{\"name\": \"Charniele L. Herring\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Betsy B. Carr",
+      "voter_id": "~{\"name\": \"Betsy B. Carr\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Patrick A. Hope",
+      "voter_id": "~{\"name\": \"Patrick A. Hope\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James W. Morefield",
+      "voter_id": "~{\"name\": \"James W. Morefield\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Luke E. Torian",
+      "voter_id": "~{\"name\": \"Luke E. Torian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tony O. Wilt",
+      "voter_id": "~{\"name\": \"Tony O. Wilt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "M. Keith Hodges",
+      "voter_id": "~{\"name\": \"M. Keith Hodges\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alfonso H. Lopez",
+      "voter_id": "~{\"name\": \"Alfonso H. Lopez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Israel D. O'Quinn",
+      "voter_id": "~{\"name\": \"Israel D. O'Quinn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael J. Webert",
+      "voter_id": "~{\"name\": \"Michael J. Webert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terry L. Austin",
+      "voter_id": "~{\"name\": \"Terry L. Austin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hyland F. \"Buddy\" Fowler, Jr.",
+      "voter_id": "~{\"name\": \"Hyland F. \\\"Buddy\\\" Fowler, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James A. \"Jay\" Leftwich",
+      "voter_id": "~{\"name\": \"James A. \\\"Jay\\\" Leftwich\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marcus B. Simon",
+      "voter_id": "~{\"name\": \"Marcus B. Simon\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sam Rasoul",
+      "voter_id": "~{\"name\": \"Sam Rasoul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Robert S. Bloxom, Jr.",
+      "voter_id": "~{\"name\": \"Robert S. Bloxom, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richard C. \"Rip\" Sullivan, Jr.",
+      "voter_id": "~{\"name\": \"Richard C. \\\"Rip\\\" Sullivan, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paul E. Krizek",
+      "voter_id": "~{\"name\": \"Paul E. Krizek\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marcia S. \"Cia\" Price",
+      "voter_id": "~{\"name\": \"Marcia S. \\\"Cia\\\" Price\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "C.E. Cliff Hayes, Jr.",
+      "voter_id": "~{\"name\": \"C.E. Cliff Hayes, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karrie K. Delaney",
+      "voter_id": "~{\"name\": \"Karrie K. Delaney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kelly K. Convirs-Fowler",
+      "voter_id": "~{\"name\": \"Kelly K. Convirs-Fowler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elizabeth R. Guzman",
+      "voter_id": "~{\"name\": \"Elizabeth R. Guzman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David A. Reid",
+      "voter_id": "~{\"name\": \"David A. Reid\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kathy K.L. Tran",
+      "voter_id": "~{\"name\": \"Kathy K.L. Tran\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph P. McNamara",
+      "voter_id": "~{\"name\": \"Joseph P. McNamara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Alex Q. Askew",
+      "voter_id": "~{\"name\": \"Alex Q. Askew\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua G. Cole",
+      "voter_id": "~{\"name\": \"Joshua G. Cole\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dan I. Helmer",
+      "voter_id": "~{\"name\": \"Dan I. Helmer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris S. Runion",
+      "voter_id": "~{\"name\": \"Chris S. Runion\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Don Scott",
+      "voter_id": "~{\"name\": \"Don Scott\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shelly A. Simonds",
+      "voter_id": "~{\"name\": \"Shelly A. Simonds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wendell S. Walker",
+      "voter_id": "~{\"name\": \"Wendell S. Walker\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Rodney T. Willett",
+      "voter_id": "~{\"name\": \"Rodney T. Willett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott A. Wyatt",
+      "voter_id": "~{\"name\": \"Scott A. Wyatt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bill Wiley",
+      "voter_id": "~{\"name\": \"Bill Wiley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jason S. Ballard",
+      "voter_id": "~{\"name\": \"Jason S. Ballard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike A. Cherry",
+      "voter_id": "~{\"name\": \"Mike A. Cherry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nadarius E. Clark",
+      "voter_id": "~{\"name\": \"Nadarius E. Clark\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phillip A. Scott",
+      "voter_id": "~{\"name\": \"Phillip A. Scott\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Briana D. Sewell",
+      "voter_id": "~{\"name\": \"Briana D. Sewell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Irene Shin",
+      "voter_id": "~{\"name\": \"Irene Shin\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Anne Ferrell Tata",
+      "voter_id": "~{\"name\": \"Anne Ferrell Tata\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "H. Otto Wachsmann, Jr.",
+      "voter_id": "~{\"name\": \"H. Otto Wachsmann, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Wren M. Williams",
+      "voter_id": "~{\"name\": \"Wren M. Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jackie H. Glass",
+      "voter_id": "~{\"name\": \"Jackie H. Glass\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ellen H. McLaughlin",
+      "voter_id": "~{\"name\": \"Ellen H. McLaughlin\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Holly M. Seibold",
+      "voter_id": "~{\"name\": \"Holly M. Seibold\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bonita G. Anthony",
+      "voter_id": "~{\"name\": \"Bonita G. Anthony\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katrina Callsen",
+      "voter_id": "~{\"name\": \"Katrina Callsen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Laura Jane Cohen",
+      "voter_id": "~{\"name\": \"Laura Jane Cohen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rae Cousins",
+      "voter_id": "~{\"name\": \"Rae Cousins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Will Davis",
+      "voter_id": "~{\"name\": \"Will Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael B. Feggans",
+      "voter_id": "~{\"name\": \"Michael B. Feggans\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Debra D. Gardner",
+      "voter_id": "~{\"name\": \"Debra D. Gardner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas A. Garrett, Jr.",
+      "voter_id": "~{\"name\": \"Thomas A. Garrett, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Timothy P. Griffin",
+      "voter_id": "~{\"name\": \"Timothy P. Griffin\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Rozia A. Henson, Jr.",
+      "voter_id": "~{\"name\": \"Rozia A. Henson, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phil M. Hernandez",
+      "voter_id": "~{\"name\": \"Phil M. Hernandez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hillary Pugh Kent",
+      "voter_id": "~{\"name\": \"Hillary Pugh Kent\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen Keys-Gamarra",
+      "voter_id": "~{\"name\": \"Karen Keys-Gamarra\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amy J. Laufer",
+      "voter_id": "~{\"name\": \"Amy J. Laufer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Destiny LeVere Bolling",
+      "voter_id": "~{\"name\": \"Destiny LeVere Bolling\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marty Martinez",
+      "voter_id": "~{\"name\": \"Marty Martinez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adele Y. McClure",
+      "voter_id": "~{\"name\": \"Adele Y. McClure\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Delores Oates",
+      "voter_id": "~{\"name\": \"Delores Oates\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Atoosa R. Reaser",
+      "voter_id": "~{\"name\": \"Atoosa R. Reaser\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joshua E. Thomas",
+      "voter_id": "~{\"name\": \"Joshua E. Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric R. Zehr",
+      "voter_id": "~{\"name\": \"Eric R. Zehr\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Phillips",
+      "voter_id": "~{\"name\": \"Eric Phillips\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "JJ Singh",
+      "voter_id": "~{\"name\": \"JJ Singh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jessica L. Anderson",
+      "voter_id": "~{\"name\": \"Jessica L. Anderson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen R. \"Kacey\" Carnegie",
+      "voter_id": "~{\"name\": \"Karen R. \\\"Kacey\\\" Carnegie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stacey Annie Carroll",
+      "voter_id": "~{\"name\": \"Stacey Annie Carroll\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nicole Cole",
+      "voter_id": "~{\"name\": \"Nicole Cole\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mitchell Cornett",
+      "voter_id": "~{\"name\": \"Mitchell Cornett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lindsey Dougherty",
+      "voter_id": "~{\"name\": \"Lindsey Dougherty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark C. Downey",
+      "voter_id": "~{\"name\": \"Mark C. Downey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lily V. Franklin",
+      "voter_id": "~{\"name\": \"Lily V. Franklin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen Hamilton",
+      "voter_id": "~{\"name\": \"Karen Hamilton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "John Chilton McAuliff",
+      "voter_id": "~{\"name\": \"John Chilton McAuliff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Leslie Chambers Mehta",
+      "voter_id": "~{\"name\": \"Leslie Chambers Mehta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "May Nivar",
+      "voter_id": "~{\"name\": \"May Nivar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Justin Pence",
+      "voter_id": "~{\"name\": \"Justin Pence\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kimberly Pope Adams",
+      "voter_id": "~{\"name\": \"Kimberly Pope Adams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Virgil Thornton",
+      "voter_id": "~{\"name\": \"Virgil Thornton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Madison Whittle",
+      "voter_id": "~{\"name\": \"Madison Whittle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Charlie Schmidt",
+      "voter_id": "~{\"name\": \"Charlie Schmidt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gretchen M. Bulova",
+      "voter_id": "~{\"name\": \"Gretchen M. Bulova\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Margaret A. Franklin",
+      "voter_id": "~{\"name\": \"Margaret A. Franklin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garrett McGuire",
+      "voter_id": "~{\"name\": \"Garrett McGuire\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kirk McPike",
+      "voter_id": "~{\"name\": \"Kirk McPike\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew Rice",
+      "voter_id": "~{\"name\": \"Andrew Rice\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 90
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 9
+    },
+    {
+      "option": "abstain",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lis.virginia.gov/cgi-bin/legp604.exe?20262+vot+26211496+HB0030",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}
